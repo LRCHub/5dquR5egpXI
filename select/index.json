@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ニコニコ",
+  "base_artist": "Siero",
+  "createdAt": "2026-03-29T13:07:21.670299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "千本桜 [ver. WhiteFlame feat.初音ミク (from ニコニコ)]",
+      "artist": "黒うさP",
+      "has_synced": true,
+      "path": "select/01_千本桜_[ver._WhiteFlame_feat.初音ミク_(from_ニコニコ)]_黒うさP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "千本桜 [ver. WhiteFlame feat.初音ミク (from ニコニコ)]",
+      "artist": "Kurousa",
+      "has_synced": true,
+      "path": "select/02_千本桜_[ver._WhiteFlame_feat.初音ミク_(from_ニコニコ)]_Kurousa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「千本桜」ver. WhiteFlame feat. 初音ミク (from ニコニコ)",
+      "artist": "黒うさP",
+      "has_synced": true,
+      "path": "select/03_「千本桜」ver._WhiteFlame_feat._初音ミク_(from_ニコニコ)_黒うさP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「千本桜」ver. WhiteFlame (from ニコニコ)",
+      "artist": "黒うさP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_「千本桜」ver._WhiteFlame_(from_ニコニコ)_黒うさP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニコニコ",
+      "artist": "Siero",
+      "has_synced": false,
+      "path": "select/pl_01_ニコニコ_Siero.txt"
+    }
+  ]
+}
